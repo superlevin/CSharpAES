@@ -1,0 +1,9 @@
+c:\users\user\source\repos\CSharpAES\CSharpAES\obj\Debug\CSharpAES.csprojAssemblyReference.cache
+c:\users\user\source\repos\CSharpAES\CSharpAES\obj\Debug\CSharpAES.FormAESTest.resources
+c:\users\user\source\repos\CSharpAES\CSharpAES\obj\Debug\CSharpAES.Properties.Resources.resources
+c:\users\user\source\repos\CSharpAES\CSharpAES\obj\Debug\CSharpAES.csproj.GenerateResource.cache
+c:\users\user\source\repos\CSharpAES\CSharpAES\obj\Debug\CSharpAES.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\CSharpAES\CSharpAES\bin\Debug\CSharpAES.exe
+c:\users\user\source\repos\CSharpAES\CSharpAES\bin\Debug\CSharpAES.pdb
+c:\users\user\source\repos\CSharpAES\CSharpAES\obj\Debug\CSharpAES.exe
+c:\users\user\source\repos\CSharpAES\CSharpAES\obj\Debug\CSharpAES.pdb
